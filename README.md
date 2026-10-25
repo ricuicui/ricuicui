@@ -12,7 +12,6 @@ L'IA tourne au choix sur votre machine, avec les modèles Qwen sur votre carte g
 * Des garde-fous : l'IA ne saisit jamais un mot de passe ni une carte bancaire
 * Écrit en Rust, avec les moteurs de rendu Servo et Cotcotcodet
 * Mac puce Apple, Mac Intel et Windows
-* Gratuit, licence Pro à 12,90 € pour un an
 
 À lire : [Le navigateur, porte d'entrée des agents IA](https://ricuicui.com/articles/navigateur-porte-entree-agents-ia) · [Télécharger](https://ricuicui.com/telecharger)
 
