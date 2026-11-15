@@ -1,33 +1,30 @@
 # Ricuicui
-**Le navigateur web pro avec une IA et des agents qui travaillent pour vous.**
+**L'écosystème de travail local pour les professionnels, dopé à l'IA française.**
 Site officiel : [ricuicui.com](https://ricuicui.com)
 
 ## En français
 
-Ricuicui est un navigateur web conçu en France pour les professionnels. Son IA et ses agents lisent les pages, remplissent les tableaux et préparent les réponses aux messages pendant que vous faites autre chose.
+Ricuicui est un écosystème de travail pour les professionnels, sur Mac et Windows : un navigateur, une IA, des agents et des outils réunis dans une seule appli.
 
-L'IA tourne au choix sur votre machine, avec les modèles Qwen sur votre carte graphique, ou avec l'API de votre choix (Claude, GPT, Mistral). Vos données restent chez vous : rien n'est envoyé à Ricuicui.
+L'IA lit, clique et remplit les pages sous vos yeux, et demande votre accord avant chaque action qui engage. Elle ne tape jamais un mot de passe ni un numéro de carte. Elle tourne au choix sur votre ordinateur, sans internet ni clé d'API, ou chez le fournisseur de votre choix. Le mode Agent mène une tâche jusqu'au bout, et plusieurs agents peuvent travailler ensemble.
 
-* 13 outils MCP (Model Context Protocol) et des agents A2A
-* Des garde-fous : l'IA ne saisit jamais un mot de passe ni une carte bancaire
-* Écrit en Rust, avec les moteurs de rendu Servo et Cotcotcodet
-* Mac puce Apple, Mac Intel et Windows
+Autour du navigateur, des graines ajoutent les outils du quotidien : notes, tableur, devis et factures, PDF, e-mail, base de données, dessin. Tout est écrit en Rust, avec Cotcotcodet, notre moteur de pages web, qui bloque traqueurs et publicités.
 
-À lire : [Le navigateur, porte d'entrée des agents IA](https://ricuicui.com/articles/navigateur-porte-entree-agents-ia) · [Télécharger](https://ricuicui.com/telecharger)
+Ricuicui est freemium : l'appli de base s'installe sans frais, Ricuicui Pro ajoute l'IA locale sur la carte graphique, et l'édition Ingénieur apporte les outils des développeurs.
+
+[Télécharger](https://ricuicui.com/telecharger)
 
 ## In English
 
-Ricuicui is a web browser built in France for professionals. Its AI and agents read pages, fill in tables and draft replies while you do something else.
+Ricuicui is a work ecosystem for professionals on Mac and Windows: a web browser, an AI, agents and tools in a single app.
 
-The AI runs either on your own machine, with Qwen models on your graphics card, or through the API of your choice (Claude, GPT, Mistral). Your data stays with you: nothing is sent to Ricuicui.
+The AI reads, clicks and fills in pages before your eyes, and asks for your approval before any action that commits you. It never types a password or a card number. It runs either on your own computer, with no internet and no API key, or with the provider of your choice. Agent Mode carries a task through to the end, and several agents can work together.
 
-* 13 MCP tools and A2A agents
-* Guardrails: the AI never types a password or a bank card
-* Written in Rust, with the Servo and Cotcotcodet rendering engines
-* Apple silicon Mac, Intel Mac and Windows
-* Free, Pro licence at 12.90 EUR per year
+Around the browser, seeds add everyday tools: notes, spreadsheet, quotes and invoices, PDF, email, database, drawing. Everything is written in Rust, including Cotcotcodet, our own web engine, which blocks trackers and ads.
 
-More: [ricuicui.com](https://ricuicui.com)
+Ricuicui is freemium: the core app costs nothing to install, Ricuicui Pro adds local AI on your graphics card, and the Engineer edition brings developer tools.
+
+[Download](https://ricuicui.com/en/)
 
 ---
 
